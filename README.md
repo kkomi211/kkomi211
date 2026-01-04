@@ -1,9 +1,8 @@
-# 👋 안녕하세요 개발자 정은성입니다.
-
-사용자가 겪는 불편함을 해소하고 시스템의 효율을 개선하는 개발에 가치를 둡니다.
+# 👋 개발자 정은성입니다.
 
 계획을 중요시하면서도 개발 과정의 변수에 유연하게 대처하여 목표를 완수하는 개발자입니다.
 
+**📂 Portfolio:** [👉 포트폴리오 PPT 보러가기](https://www.canva.com/design/DAG7uQqqN0M/jimeVY6UYntvV5s0dCA7Uw/edit)
 
 ---
 
@@ -59,15 +58,14 @@
 
 ---
 
-## 🎓 Education & Certifications
-**한신대학교 컴퓨터공학과** (2020.03 ~ 2026.02 졸업 예정)
-**정보처리기사** (2025.12 합격)
-**MSA기반 Full Stack 과정 수료** (더조은컴퓨터아카데미, 2025.07 ~ 2026.01)
+## 🎓 Education
+**한신대학교 컴퓨터공학과** (2020.03 ~ 2026.02 졸업 예정)<br>
+**MSA기반 Full Stack 과정 수료** (더조은컴퓨터아카데미, 2025.07 ~ 2026.01)<br>
+
+## 📜 Certifications
+**정보처리기사** (한국산업인력공단, 2025.12 합격)
 
 ---
-## 포트폴리오
-**ppt:** https://www.canva.com/design/DAG7uQqqN0M/jimeVY6UYntvV5s0dCA7Uw/edit
 
 ## 📫 Contact
-**Email:** cutybaby8024@gmail.com 
-
+**Email:** cutybaby8024@gmail.com
