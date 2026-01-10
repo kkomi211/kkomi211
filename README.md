@@ -2,7 +2,8 @@
 
 계획을 중요시하면서도 개발 과정의 변수에 유연하게 대처하여 목표를 완수하는 개발자입니다.
 
-**📂 Portfolio:** [👉 포트폴리오 PPT 보러가기][(https://www.canva.com/design/DAG7uQqqN0M/jimeVY6UYntvV5s0dCA7Uw/edit)](https://www.canva.com/design/DAG94syeHKk/8Pm1WFOC-rercw4V2oPiYA/view?utm_content=DAG94syeHKk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hba40a644b4)
+**📂 Portfolio:** [👉 포트폴리오 PPT 보러가기](https://www.canva.com/design/DAG94syeHKk/8Pm1WFOC-rercw4V2oPiYA/view?utm_content=DAG94syeHKk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hba40a644b4)
+
 
 ---
 
