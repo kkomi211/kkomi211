@@ -57,6 +57,18 @@
 
 📂 [GitHub Repository 바로가기](https://github.com/kkomi211/musicmate)
 
+### 4. 문화재 마블 (문화재를 이용한 부루마블)
+**Role:** 팀원 (Team Member), Core Logic Developer <br>
+**Period:** 2025.12.22 ~ 2026.01.08 <br>
+**Stack:** Flutter, Firebase <br>
+
+**온라인-로컬 기본 게임 기능 구현 :** 게임 요소들의 움직임과 승리조건, 특수칸을 밟을때와 뽑은 찬스카드에 따른 행동을 구현했습니다. <br>
+**문화재 API 활용:** 문화재 API를 연동하여 보드판 요소들을 만들고 퀴즈도 문화재를 이용해 만들었습니다. <br>
+**위젯 통합:** 다른 팀원들이 만든 코드를 메인 코드와 병합하였습니다.<br>
+**봇 행동 구현:** 봇에게 행동의 우선순위를 정하여 자동으로 움직이게 만들었습니다.<br>
+
+📂 [GitHub Repository 바로가기](https://github.com/kkomi211/musicmate)
+
 ---
 
 ## 🎓 Education
