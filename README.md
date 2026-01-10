@@ -67,7 +67,7 @@
 **위젯 통합:** 다른 팀원들이 만든 코드를 메인 코드와 병합하였습니다.<br>
 **봇 행동 구현:** 봇에게 행동의 우선순위를 정하여 자동으로 움직이게 만들었습니다.<br>
 
-📂 [GitHub Repository 바로가기](https://github.com/kkomi211/musicmate)
+📂 [GitHub Repository 바로가기](https://github.com/hee8144/teamproject)
 
 ---
 
